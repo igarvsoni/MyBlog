@@ -7,12 +7,11 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, lee.so</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/MyBlog/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
       <link>http://localhost:1313/MyBlog/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/MyBlog/series/themes-guide/</guid>
       <description></description>
     </item>

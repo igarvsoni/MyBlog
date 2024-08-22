@@ -1,25 +1,13 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "About page"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "lee.so"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+i am a fresher at IIIT Bhopal, where I’m diving into the exciting world of Computer Science and Engineering with a focus on Artificial Intelligence. Beyond the classroom, you’ll often find me on the badminton court or playing cricket, as I’m passionate about sports and love staying active. When I’m not playing sports, I enjoy unwinding with a good book, which helps me explore new ideas and perspectives. I’m eager to connect with fellow students, share knowledge, and make the most of my time here at IIIT Bhopal.
 
-Hugo makes use of a variety of open source projects including:
+This blog will be a place where I share what I’m learning, with the hope that it might help others too. Feel free to follow along, and I hope you find something useful or interesting here!
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Looking forward to an amazing journey ahead!
